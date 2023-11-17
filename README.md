@@ -73,5 +73,8 @@ The Streamlit app (`app.py`) allows users to input customer information and pred
 streamlit run app.py
 
 ### Deployment Video Link
+https://drive.google.com/file/d/1eIVwPLLmmuAMqS3QskC13r4_38nl4rxg/view?usp=drive_link
+
+
 
 
